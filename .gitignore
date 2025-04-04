@@ -1,0 +1,10 @@
+# Node artifact files
+node_modules/
+
+# uploads folder
+uploads/
+
+# Environment files
+/env
+
+*.vscode
